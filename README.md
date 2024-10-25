@@ -23,7 +23,7 @@ Welcome to **MyFavoritesCollection**, a stylish iOS app to track and showcase yo
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/MyFavoritesCollection.git
+    git clone https://github.com/tttulepbergen/MyFavouritesCollection.git
     cd MyFavoritesCollection
     ```
 
