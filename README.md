@@ -60,4 +60,7 @@ MyFavoritesCollection was inspired by a love for cinema and the desire to create
 - **Xcode**: The development environment.
 
 
+|       Name        |    ID     |
+|-------------------|-----------|
+| Tulepbergen Anel  | 22B030602 |
 
