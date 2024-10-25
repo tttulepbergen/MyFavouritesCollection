@@ -1,4 +1,4 @@
-# 📽️ MyFavoritesCollection
+![SimulatorScreenshot](https://github.com/user-attachments/assets/8054d01b-a8b8-49aa-ade6-e223d0af1ff9)# 📽️ MyFavoritesCollection
 
 Welcome to **MyFavoritesCollection**, a stylish iOS app to track and showcase your favorite movies! Featuring classic and modern films with their titles, release years, genres, and countries of origin, this app allows you to scroll through a curated list of cinematic treasures.
 
@@ -11,13 +11,9 @@ Welcome to **MyFavoritesCollection**, a stylish iOS app to track and showcase yo
 
 ## 📱 Screenshots
 
-<img src="https://github.com/user-attachments/assets/2a200d7a-7d4f-4992-af19-fbd327bd0a0e" width="300" alt="Simulator Screenshot">
+<img src="https://github.com/user-attachments/assets/00144160-18a7-405c-8c83-cb75633c71e4" width="300" alt="Simulator Screenshot">
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- Xcode 15.4 or later
-- iOS 15.0 or later
 
 ### Installation
 
@@ -61,13 +57,5 @@ MyFavoritesCollection was inspired by a love for cinema and the desire to create
 - **UIKit**: For building the user interface.
 - **Xcode**: The development environment.
 
-## 🤝 Contributing
 
-We welcome contributions! Please follow these steps:
-
-1. Fork the project.
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`.
-3. Commit your changes: `git commit -m 'Add some AmazingFeature'`.
-4. Push to the branch: `git push origin feature/AmazingFeature`.
-5. Open a pull request.
 
