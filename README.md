@@ -1,4 +1,4 @@
-![SimulatorScreenshot](https://github.com/user-attachments/assets/8054d01b-a8b8-49aa-ade6-e223d0af1ff9)# 📽️ MyFavoritesCollection
+# 📽️ MyFavoritesCollection
 
 Welcome to **MyFavoritesCollection**, a stylish iOS app to track and showcase your favorite movies! Featuring classic and modern films with their titles, release years, genres, and countries of origin, this app allows you to scroll through a curated list of cinematic treasures.
 
@@ -12,6 +12,8 @@ Welcome to **MyFavoritesCollection**, a stylish iOS app to track and showcase yo
 ## 📱 Screenshots
 
 <img src="https://github.com/user-attachments/assets/00144160-18a7-405c-8c83-cb75633c71e4" width="300" alt="Simulator Screenshot">
+
+<img src="https://github.com/user-attachments/assets/4a3c67eb-28f8-40d2-b9c0-ded790dee79c" width="300" alt="Simulator Screenshot">
 
 ## 🚀 Getting Started
 
